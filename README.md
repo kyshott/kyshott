@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Greetings, I'm Kyle**
+# **Welcome To My Page**
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
