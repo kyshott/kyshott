@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://www.instron.com/-/media/images/instron/case-studies/2015/wit-stacked.jpg?h=254&&w=300&hash=CCC680DCA2050EAA6AB40306B5F18522" width="125" height="110"> 
+<img src="https://studyarchitecture.com/wp-content/uploads/Leopard_Seal_No_Outline_White_Fill_Dark_Bkgd.png" width="150" height="150"> 
 
 <br><br>
 
