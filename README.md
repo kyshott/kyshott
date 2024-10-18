@@ -4,6 +4,8 @@
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
+**I am particularly interested in and am working to improve my skills in software engineering, data science, physics, applied mathematics and game development.**
+
 <br>
 
 <img src="https://studyarchitecture.com/wp-content/uploads/Leopard_Seal_No_Outline_White_Fill_Dark_Bkgd.png" width="150" height="150"> 
