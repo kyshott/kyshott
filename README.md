@@ -4,7 +4,11 @@
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
+<br>
+
 <img src="https://www.instron.com/-/media/images/instron/case-studies/2015/wit-stacked.jpg?h=254&&w=300&hash=CCC680DCA2050EAA6AB40306B5F18522" width="125" height="110"> 
+
+<br><br>
 
 ## Tech Stack:
 
@@ -17,7 +21,7 @@
 ### Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberrypi&perline=5)](https://skillicons.dev)
 
-
+<br><br>
 
 ## Other Stuff:
 
