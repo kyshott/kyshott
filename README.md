@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://studyarchitecture.com/wp-content/uploads/Leopard_Seal_No_Outline_White_Fill_Dark_Bkgd.png" width="150" height="150"> 
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQEoSBayCOZ6Gw/company-logo_200_200/company-logo_200_200/0/1642534955373/wentworth_computing_data_science_logo?e=2147483647&v=beta&t=kj9O0B3yuACufgSZN8ZuIO1fk7Pw_ayjAejJ99ne1yU" width="150" height="150"> 
 
 <br><br>
 
