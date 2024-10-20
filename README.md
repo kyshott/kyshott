@@ -25,7 +25,7 @@
 
 <br><br>
 
-## Other Stuff:
+## Other Links:
 
 <br>
 
