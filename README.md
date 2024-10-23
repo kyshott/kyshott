@@ -61,7 +61,7 @@
 <br><br>
 
 
-**I have a wide range of interests, from coding (of course), to gaming, music and film. I am a big fan of competitive games, especially MOBAs and fighting games. Currently, I play a lot of Super Smash Bros. Ultimate, Street Fighter 6 and League of Legends.**
+**I have a wide range of interests, from coding (of course), to gaming, music and film. I am a big fan of turn-based strategy and competitive games, especially MOBAs and fighting games. Currently, I play a lot of Super Smash Bros. Ultimate, Street Fighter 6 and League of Legends.**
 
 <br>
 
