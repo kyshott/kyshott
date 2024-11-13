@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,cs,r,mysql,lua,powershell,bash&perline=5)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,pycharm,vscode,godot,robloxstudio,gamemakerstudio,maven,gradle,postman,vim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,gamemakerstudio,maven,gradle,postman,vim&perline=5)](https://skillicons.dev)
 
 ### Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberrypi&perline=5)](https://skillicons.dev)
