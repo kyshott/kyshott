@@ -4,7 +4,9 @@
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
-**I am particularly interested in and am working to improve my skills in software engineering, data science, physics, applied mathematics and game development.**
+**I am particularly interested in and am working to improve my skills in systems programming, software engineering, data science, physics, applied mathematics and game development.**
+
+**There are two projects I am currently working on - a fully fledged Roguelike FPS in the Godot engine using the .NET framework, and a 2D Game Engine in C++ using SDL2.**
 
 <br>
 
