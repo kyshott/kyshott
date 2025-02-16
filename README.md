@@ -6,7 +6,7 @@
 
 **I am particularly interested in and am working to improve my skills in systems programming, software engineering, data science, physics, applied mathematics and game development.**
 
-**There are two projects I am currently working on - a fully fledged Roguelike FPS in the Godot engine using the .NET framework, and a 2D Game Engine in C++ using SDL2.**
+**There are bunch of projects I am currently working on - a fully fledged Roguelike FPS in the Godot engine using the .NET framework, and a variety of games in C++ using SDL2.**
 
 <br>
 
