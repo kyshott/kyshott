@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,maven,postman,vim,cmake,blender&perline=5)](https://skillicons.dev)
 
 ### Operating Systems:
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberrypi&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi&perline=5)](https://skillicons.dev)
 
 <br><br>
 
