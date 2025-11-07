@@ -4,7 +4,9 @@
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
-**I am particularly interested in and am working to improve my skills in systems programming, software engineering, data science, physics, applied mathematics and game development.**
+**I am particularly interested in and am working to improve my skills in game development, software engineering, machine learning/data science and applied math.**
+
+**AI ethics is a very important topic to me, and I am committed to spreading the message of using AI responsibly in a way that is both environmentally friendly and respectful of other professions and art.**
 
 **There are bunch of projects I am currently working on - a fully fledged Roguelike FPS in the Godot engine using the .NET framework, and a variety of games in C++ using SDL2.**
 
