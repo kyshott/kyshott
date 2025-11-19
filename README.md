@@ -8,7 +8,7 @@
 
 **AI ethics is a very important topic to me, and I am committed to spreading the message of using AI responsibly in a way that is both environmentally friendly and respectful of other professions and art.**
 
-**There are currently two main projects I am working on - a fully fledged 3D FPS Game in the Godot engine + C# .NET Framework, and a 2D Game Engine made with C++ and SDL2.
+**There are currently two main projects I am working on - a fully fledged 3D FPS Game in the Godot engine + C# .NET Framework, and a 2D Game Engine made with C++ and SDL2.**
 
 <br>
 
