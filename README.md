@@ -15,17 +15,14 @@
 ## Tech Stack:
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,cs,r,mysql,lua,powershell,bash&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,py,r,mysql,lua,powershell,bash&perline=5)](https://skillicons.dev)
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,postman,vim,cmake,blender&perline=5)](https://skillicons.dev)
-
-### Operating Systems:
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi&perline=5)](https://skillicons.dev)
+### Tools/Platforms:
+[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,postman,vim,cmake,blender,azure&perline=5)](https://skillicons.dev)
 
 <br><br>
 
-## Other Links:
+## Links:
 
 <br>
 
