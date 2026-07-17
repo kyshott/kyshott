@@ -4,11 +4,7 @@
 
 **I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
 
-**I am particularly interested in and am working to improve my skills in game development, software engineering, machine learning/data science and applied math.**
-
-**AI ethics is a very important topic to me, and I am committed to spreading the message of using AI responsibly in a way that is both environmentally friendly and respectful of other professions and art.**
-
-**There are currently two main projects I am working on - a fully fledged 3D FPS Game in the Godot engine + C# .NET Framework, and a 2D Game Engine made with C++ and SDL2.**
+**I am particularly interested in and am working to improve my skills in game development, software engineering, embedded systems, physics, data science and mathematics.**
 
 <br>
 
@@ -22,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,cs,r,mysql,lua,powershell,bash&perline=5)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,maven,postman,vim,cmake,blender&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,godot,robloxstudio,postman,vim,cmake,blender&perline=5)](https://skillicons.dev)
 
 ### Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi&perline=5)](https://skillicons.dev)
