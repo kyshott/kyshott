@@ -2,7 +2,7 @@
 
 # **Welcome To My Page**
 
-**I am currently a student at Wentworth Institute of Technology in Boston, MA. I am pursuing a B.S. in Computer Science with minors in Data Science, Physics, and Applied Mathematics.**
+**I am a recent graduate from Wentworth Institute of Technology in Boston, MA, with a B.S. in Computer Science alongside Minors in Data Science and Applied Mathematics.**
 
 **I am particularly interested in and am working to improve my skills in game development, software engineering, embedded systems, physics, data science and mathematics.**
 
